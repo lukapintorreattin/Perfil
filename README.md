@@ -46,8 +46,8 @@ class Luka:
 
 ## <p align="center"> 💡 Projetos em destaque:
 
-<p align="center"> 🚧 Em construção total... 
-<p align="center"> Em breve você vai ver projetos insanos em C++, Python, Machine Learning e muito mais. 🔥
+<p align="center"> 🚧 Em construção... 
+<p align="center"> Em breve você vai ver projetos em C++, Python, Machine Learning e muito mais.
 
 ## <p align="center"> 📬 Como me Encontrar 📬
 
